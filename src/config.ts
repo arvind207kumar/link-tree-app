@@ -24,13 +24,13 @@ const config = {
       key: "twitter",
       label: "Twitter",
       iconUrl: Twitter,
-      redirectUrl: "https://twitter.com/SpheronHQ",
+      redirectUrl: "https://twitter.com/blockchainbalak",
     },
     {
       key: "linkedin",
       label: "LinkedIn",
       iconUrl: LinkedIn,
-      redirectUrl: "https://www.linkedin.com/company/spheron/",
+      redirectUrl: "https://www.linkedin.com/in/prakarshpathak/",
     },
     // {
     //   "key": "medium",
