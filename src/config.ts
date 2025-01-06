@@ -6,7 +6,7 @@ import LinkedIn from "./assets/icons/linkedin.svg";
 import Youtube from "./assets/icons/youtube.svg";
 import Discord from "./assets/icons/discord.svg";
 import GitHub from "./assets/icons/github.svg";
-
+//import 
 const config = {
   logoUrl: AppLogo,
   favicon: "../favicon.ico",
